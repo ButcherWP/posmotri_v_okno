@@ -162,7 +162,7 @@ ol {
 }
 
 .content__video-card-title {
-  font-family: Oswald;
+  font-family: Oswald, sans-serif;
   font-size: 30px;
   font-weight: 700;
   line-height: 30px;
@@ -174,7 +174,7 @@ ol {
 .content__video-card-description {
   min-height: 107px;
 
-  font-family: Fira Sans Condensed;
+  font-family: Fira Sans Condensed, sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 16px;
@@ -251,7 +251,7 @@ ol {
   color: white;
   height: 34px;
   
-  font-family: Fira Sans Condensed;
+  font-family: Fira Sans Condensed, sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 22px;
@@ -298,7 +298,7 @@ ol {
 }
 
 .error__title {
-  font-family: Oswald;
+  font-family: Oswald, sans-serif;
   font-size: 30px;
   font-weight: 400;
   line-height: 33px;
