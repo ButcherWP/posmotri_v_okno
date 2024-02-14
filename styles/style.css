@@ -247,7 +247,7 @@ ol {
   margin: 1px;
 }
 
-.search-form__label:hover:not(.search-form__textfield)  {
+.search-form__label:hover .search-form__label-text  {
   text-decoration: underline;
   text-underline-position: under;
 }
@@ -291,6 +291,7 @@ ol {
 
 .content__card-link_current {
   display: block;
+  background-color: #545050;
 }
 
 .content__card-link:focus {
